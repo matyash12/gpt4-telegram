@@ -1,5 +1,7 @@
-# gpt4-telegram
-This is a new project created on 2-3-2024
- This is what the code should do 
+# GPT-4 on telegram
 
-gpt4 bot on telegram 
+What it is?
+Simple telegram bot which is using ChatGPT-4
+
+How to setup?
+node run.js
