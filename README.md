@@ -5,5 +5,5 @@ Simple telegram bot which is using ChatGPT-4
 
 ## How to setup?
 * git pull
-* npm install
-* node run.js
+* docker build -t telegram-chatgpt .
+* docker run telegram-chatgpt
